@@ -87,3 +87,20 @@ Product analysis
 Rating distribution
 KPI cards
 Review trend analysis
+
+#References
+Apache Spark
+
+Apache Spark Documentation
+
+PySpark Documentation
+
+PySpark API Documentation
+
+Power BI Documentation
+
+Power BI Documentation
+
+Google Colab
+
+Google Colab
